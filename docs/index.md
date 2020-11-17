@@ -1,2 +1,2 @@
-# Team MythosCraft's Website
+# Homepage
 hello
