@@ -1,1 +1,7 @@
 theme: jekyll-theme-cayman
+
+title: Team MythosCraft's Website
+description: The website for Team MythosCraft, creator of MythosCraft
+baseurl: "/"
+url: "https://team-mythoscraft.github.io" 
+github_username: Team-MythosCraft
