@@ -16,5 +16,5 @@ hello
 ## Mods
 
 - MythosCraft
-  - [Fabric](https://github.com/Team-MythosCraft/MythosCraft-Fabric/)
-  - [Forge](https://github.com/Team-MythosCraft/MythosCraft/)
+  - [**Forge**](https://github.com/Team-MythosCraft/MythosCraft/)
+  - [**Fabric**](https://github.com/Team-MythosCraft/MythosCraft-Fabric/)
