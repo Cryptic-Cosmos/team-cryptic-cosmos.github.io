@@ -1,2 +1,2 @@
-# team-mythoscraft.github.io
-Website for Team MythosCraft
+# team-cryptic-cosmos.github.io
+Website for Team Cryptic Cosmos
